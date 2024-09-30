@@ -14,7 +14,10 @@
 <h4 align="center"><samp>Connect with me:</samp></h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/loukas-mertzanis-3938b5201/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48px"/>
+  </a>
+  <a href="https://gitlab.com/loukas-mertzanis">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="48px"/>
   </a>
 </p>
 
