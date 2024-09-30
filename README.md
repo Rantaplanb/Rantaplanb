@@ -25,6 +25,6 @@
 <hr>
 
 
-| <samp>Programming Languages</samp> | <samp>DevOps & Cloud Technologies</samp> | <samp>Collaboration Tools</samp>  | <samp>Methodologies</samp> |
-| ------------- | ------------- | -------------  | ------------- |
-| [![My Skills](https://skillicons.dev/icons?i=go,py,cpp,java,javascript)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,gitlab)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=jira,confluence)](https://skillicons.dev) | DevOps, Agile, Git Workflows |
+| <samp>Programming Languages</samp> | <samp>DevOps & Cloud Technologies</samp> | <samp>Methodologies</samp> |
+| ------------- | ------------- | ------------- |
+| [![My Skills](https://skillicons.dev/icons?i=go,py,cpp,c,java,javascript)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,gitlab)](https://skillicons.dev) | DevOps, Agile, Git Workflows |
